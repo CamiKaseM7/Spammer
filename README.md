@@ -5,10 +5,11 @@ para pegar cosas en la consola es con click derecho
 ### Ejecutar
 Si descargaron el .exe es simplemente hacerle doble click<br>
 si lo estas ejecutando desde el codigo fuente tenes que poner 
-estando dentro de la carpeta de la aplicacion, por ejemplo en `C:\Windows\Usuarios\Admin\Spammer`
+
 ```sh
 node . 
 ```
+estando dentro de la carpeta de la aplicacion, por ejemplo en `C:\Windows\Usuarios\Admin\Spammer`
 
 si la consola no le dice que estan dentro de esa carpeta pongan:
 ```sh
