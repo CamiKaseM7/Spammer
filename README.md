@@ -9,11 +9,11 @@ si lo estas ejecutando desde el codigo fuente tenes que poner
 ```sh
 node . 
 ```
-estando dentro de la carpeta de la aplicacion, por ejemplo en `C:\Windows\Usuarios\Admin\Spammer`
+estando dentro de la carpeta de la aplicacion, por ejemplo en `C:\Usuarios\Admin\Spammer`
 
 si la consola no le dice que estan dentro de esa carpeta pongan:
 ```sh
-cd "C:\Windows\Usuarios\Admin\Spammer" # esto es si esta en ese lugar, si esta en otro pongan donde este realmente
+cd "C:\Usuarios\Admin\Spammer" # esto es si esta en ese lugar, si esta en otro pongan donde este realmente
 ```
 ### Instalacion
 Primero tienen que tener <a href="https://nodejs.org/en/">NodeJS</a> instalado.<br>
