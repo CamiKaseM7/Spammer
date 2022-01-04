@@ -2,7 +2,7 @@
 Con este programa vamos a llevar al suwieOwO al top1
 
 para pegar cosas en la consola es con click derecho
-### Ejecutar
+## Ejecutar
 Si descargaron el .exe es simplemente hacerle doble click<br>
 si lo estas ejecutando desde el codigo fuente tenes que poner 
 
@@ -15,7 +15,7 @@ si la consola no le dice que estan dentro de esa carpeta pongan:
 ```sh
 cd "C:\Usuarios\Admin\Spammer" # esto es si esta en ese lugar, si esta en otro pongan donde este realmente
 ```
-### Instalacion
+## Instalacion
 Primero tienen que tener <a href="https://nodejs.org/en/">NodeJS</a> instalado.<br>
 Van a tener que descargar 
 <a href="https://my.visualstudio.com/Downloads?q=visual%20studio%202017&wt.mc_id=o~msft~vscom~older-downloads"> Visual Studio Comunity 2017 </a><br>
