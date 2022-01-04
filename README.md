@@ -1,6 +1,7 @@
 # Spammer
 Con este programa vamos a llevar al suwieOwO al top1
 
+para pegar cosas en la consola es con click derecho
 ### Ejecutar
 Si descargaron el .exe es simplemente hacerle doble click<br>
 si lo estas ejecutando desde el codigo fuente tenes que poner 
