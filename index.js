@@ -23,7 +23,7 @@ rl.question("cual es tu token? ", (token) => {
                         },
                         connection: {
                             reconnect: true,
-                            reconnectInterval: 50,
+                            reconnectInterval: 2000,
                         },
                         identity: {
                             username: "camikase",
@@ -38,7 +38,9 @@ rl.question("cual es tu token? ", (token) => {
                     const emoteMessage = getLongestMessage(emote, MAXLENGTH);
 
                     client.on("connected", (address, port) => {
-                        console.log("Bot conectado");
+                        console.log(
+                            `${client.getUsername()} ya esta spameando`
+                        );
 
                         const spamInterval = setInterval(() => {
                             client.say(channel, emoteMessage).catch((err) => {
