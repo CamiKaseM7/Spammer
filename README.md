@@ -2,6 +2,8 @@
 Con este programa vamos a llevar al suwieOwO al top1
 
 para pegar cosas en la consola es con click derecho
+
+la cantidad de milisegundos recomendada es de 350, a esta velocidad pueden hablar en otros canales donde sean mod o vip (tienen shadowban por spam y no pueden hablar en otros canales) sin que se desconecte el bot, si se ponen a escribir muy rapido puede que se desconecte y si se desconecta muy seguido reinicien la aplicacion
 ## Ejecutar
 Si descargaron el .exe es simplemente hacerle doble click<br>
 si lo estas ejecutando desde el codigo fuente tenes que poner 
