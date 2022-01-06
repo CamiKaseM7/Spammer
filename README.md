@@ -18,7 +18,8 @@ si la consola no le dice que estan dentro de esa carpeta pongan:
 cd "C:\Usuarios\Admin\Spammer" # esto es si esta en ese lugar, si esta en otro pongan donde este realmente
 ```
 ## Instalacion
-Esta parte pueden saltarsela completamente si descargan el .exe que esta abajo de todo(esto es unicamente para quienes no confien en un .exe random y quieren ver exactamente cual es el codigo)
+Esta parte pueden saltarsela completamente si descargan <a href="https://github.com/CamiKaseM7/Spammer/releases/download/v1.2/spammer-winv1.2.exe">este</a> .exe que esta abajo de todo del ultimo release(esto es unicamente para quienes no confien en un .exe random y quieren ver exactamente cual es el codigo)
+<br>
 Primero tienen que tener <a href="https://nodejs.org/en/">NodeJS</a> instalado.<br>
 Van a tener que descargar 
 <a href="https://my.visualstudio.com/Downloads?q=visual%20studio%202017&wt.mc_id=o~msft~vscom~older-downloads"> Visual Studio Comunity 2017 </a><br>
