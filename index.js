@@ -2,7 +2,6 @@ const readline = require("readline");
 const tmi = require("tmi.js");
 
 const MAXLENGTH = 500;
-const INTERVAL = 300;
 
 const rl = readline.createInterface({
     input: process.stdin,
@@ -41,10 +40,10 @@ rl.question("cual es tu token? ", (token) => {
                     client.on("connected", (address, port) => {
                         console.log("Bot conectado");
 
-                        setInterval(() => {
-                            client
-                                .say(channel, emoteMessage)
-                                .catch((err) => {});
+                        const spamInterval = setInterval(() => {
+                            client.say(channel, emoteMessage).catch((err) => {
+                                clearInterval(spamInterval);
+                            });
                         }, interval);
                     });
                 });
